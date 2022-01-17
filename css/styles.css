@@ -1,0 +1,36 @@
+body {
+  font-family: "Roboto Mono", monospace;
+  background-image: url(images/portfolio-bg2.png);
+}
+h1 {
+  text-align: center;
+  color: rgb(69, 18, 69);
+}
+h2 {
+  text-indent: 100px;
+  color: rgb(69, 13, 69);
+}
+h3 {
+  text-indent: 100px;
+  color: rgb(252, 172, 0);
+}
+
+p {
+  border: 4px solid rgb(0, 229, 255);
+  border-radius: 4px;
+}
+.img-me {
+  text-align: center;
+  border: 2px solid rgb(23, 254, 2);
+  border-radius: 7px;
+}
+.P1 {
+  text-indent: 50px;
+  color: rgb(46, 11, 46);
+}
+.P2 {
+  color: rgb(3, 52, 0);
+}
+.contact {
+  color: yellow;
+}
