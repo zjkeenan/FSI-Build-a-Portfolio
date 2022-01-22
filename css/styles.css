@@ -27,20 +27,23 @@ p {
 .projects {
   text-align: center;
   margin: auto;
-  width: 50%;
+  width: 10%;
   border: 3px solid rgb(255, 234, 0);
   padding: 5px;
 }
 .img-me {
-  border: 2px solid rgb(254, 246, 2);
-  border-radius: 7px;
-}
-img {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  width: 10%;
+  width: 14%;
 }
+.img-me {
+  border: 2px solid rgb(254, 246, 2);
+  border-radius: 7px;
+  padding: 5px;
+  /* width: 10%; */
+}
+
 .P1 {
   text-indent: 50px;
   color: rgb(46, 11, 46);
@@ -51,4 +54,5 @@ img {
 }
 .contact {
   color: yellow;
+  width: 15%;
 }
